@@ -15,3 +15,8 @@ Console.WriteLine("Hello, World!");
  {
      return 0;
  };
+
+ static int CalculateMin(int[] values)
+ {
+     return 0;
+ };
