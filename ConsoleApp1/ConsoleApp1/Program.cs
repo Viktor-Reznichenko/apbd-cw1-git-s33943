@@ -5,3 +5,8 @@ Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, World!");
+
+ static int CalculateAverage(int[] values)
+ {
+     return 0;
+ };
