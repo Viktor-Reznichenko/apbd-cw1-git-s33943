@@ -9,7 +9,7 @@ Console.WriteLine("Hello, World!");
  static int CalculateAverage(int[] values)
  {
      //modified
-     return 0;
+     return 1;
  };
  static int CalculateMax(int[] values)
  {
